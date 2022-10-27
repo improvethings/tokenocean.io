@@ -76,7 +76,7 @@
             <i class="fas fa-handshake mr-1" /> Book a Consultation
           </button>
         </li>
-
+<!-- 
         <li class="flex items-center">
           <a
             href="https://market.tokenocean.io"
@@ -86,6 +86,7 @@
             <i class="fas fa-water mr-1" /> Market
           </a>
         </li>
+      -->
       </ul>
     </div>
   </div>
