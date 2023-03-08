@@ -341,7 +341,7 @@
                     </button></a
                   >
                   <a
-                    href="https://github.com/improvethings"
+                    href="https://www.linkedin.com/in/krisconstable/"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -349,7 +349,7 @@
                       class="bg-gray-600 text-white w-8 h-8 rounded-full outline-none focus:outline-none mr-1 mb-1"
                       type="button"
                     >
-                      <i class="fab fa-github" />
+                      <i class="fab fa-linkedin" />
                     </button></a
                   >
                 </div>
