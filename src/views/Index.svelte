@@ -11,7 +11,7 @@
   const silo = "/assets/img/silo.png";
   const nftglee = "/assets/img/nftglee.png";
   const blockstream = "/assets/img/blockstream.png";
-  const server = "/assets/img/server.jpg";
+  const server = "/assets/img/nftsareforever.png";
   const kris = "/assets/img/kris.jpg";
   const adam = "/assets/img/adam.jpg";
   const ocean = "/assets/img/ocean.jpg";
